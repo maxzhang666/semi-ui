@@ -12,9 +12,5 @@
     "semi-ui"
   ],
   "author": "maxzhang666",
-  "license": "MIT",
-  "devDependencies": {
-  },
-  "dependencies": {
-  }
+  "license": "MIT"
 }
