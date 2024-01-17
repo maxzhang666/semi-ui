@@ -1,0 +1,21 @@
+{
+  "name": "semi-ui",
+  "version": "0.0.1",
+  "description": "semi-ui cdn",
+  "packageManager": "yarn@4.0.2",
+  "scripts": {
+  },
+  "repository": {
+    "url": "https://github.com/maxzhang666/semi-ui",
+    "type": "git"
+  },
+  "keywords": [
+    "semi-ui"
+  ],
+  "author": "maxzhang666",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
